@@ -2,8 +2,8 @@
 *.swp
 GraphConsoleAppV3/bin/*
 GraphConsoleAppV3/obj/*
-packages/*
 .nuget/*
 *.suo
 *.DotSettings*
 GraphConsoleAppV3/Program-old.cs
+packages/*
